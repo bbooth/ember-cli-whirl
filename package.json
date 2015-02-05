@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-whirl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds whirl.css to your ember-cli application",
   "directories": {
     "doc": "doc",
